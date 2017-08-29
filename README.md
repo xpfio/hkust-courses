@@ -7,8 +7,7 @@ This is a very simple example to aggregate all the courses to perform text minin
 
 # T-SNE projection based on courses description:
 
-!(T-SNE Visualisation)[render.png]
-
+![alt text](render.png "T-SNE Projection")
 
 
 ## ACCT 1010 - Accounting, Business and Society (3 units)
