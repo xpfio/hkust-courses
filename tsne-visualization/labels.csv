@@ -1,0 +1,955 @@
+,name,dept
+0,"ACCT 1010 - Accounting, Business and Society (3 units)",ACCT
+1,ACCT 2010 - Principles of Accounting I (3 units),ACCT
+2,ACCT 3010 - Financial Accounting I (3 units),ACCT
+3,ACCT 3030 - Intermediate Financial Accounting for Non-Accounting Majors (3 units),ACCT
+4,ACCT 3610 - Functions of Law in Society and Business (3 units),ACCT
+5,ACCT 3880 - Professional Excellence Program (1 unit),ACCT
+6,ACCT 4010 - Advanced Financial Accounting (3 units),ACCT
+7,ACCT 4510 - Auditing (3 units),ACCT
+8,ACCT 5100 - Financial Accounting Foundations (2 units),ACCT
+9,ACCT 5150 - Accounting Foundations (2 units),ACCT
+10,ACCT 5160 - Corporate Financial Reporting I (2 units),ACCT
+11,ACCT 5170 - Corporate Financial Reporting II (2 units),ACCT
+12,ACCT 5210 - Managerial Accounting Foundations (2 units),ACCT
+13,ACCT 5220 - International Treasury Management (2 units),ACCT
+14,ACCT 5630 - Business Law (2 units),ACCT
+15,ACCT 5640 - Company Law (2 units),ACCT
+18,AESF 5210 - Fluid Dynamics (3 units),AESF
+19,AESF 5310 - Advanced Aerodynamics (3 units),AESF
+20,AESF 5320 - Advanced Aircraft Structures (3 units),AESF
+21,AESF 5370 - Composites and Nanocomposites (3 units),AESF
+22,AESF 6910A - Aviation Economics (3 units),AESF
+23,AESF 6950A - Aeronautical Independent Project (3 units),AESF
+24,AESF 6950B - Aeronautical Independent Project (6 units),AESF
+25,BIEN 3020 - Advanced Biological Physics (3 units),BIEN
+26,BIEN 5040 - Introduction to Bioengineering Research (3 units),BIEN
+27,BIEN 6770 - Professional Development in Bioengineering (1 unit),BIEN
+28,BIEN 6800M - Bioengineering Seminar (0 units),BIEN
+29,BIEN 6930A - Global Health Ethics Case Studies (3 units),BIEN
+32,BIPH 3010 - Advanced Biological Physics (3 units),BIPH
+33,BTEC 5360 - Biopharmaceutical Workshop (3 units),BTEC
+34,BTEC 5380 - Drug Discovery and Development (3 units),BTEC
+35,BTEC 5630 - Recombinant DNA Technology and Bioproducts (3 units),BTEC
+36,BTEC 5760 - Concepts in Bioprocessing (3 units),BTEC
+37,BTEC 6900 - Case Investigation in Biotechnology (3 units),BTEC
+38,BTEC 6930 - Directed Biotechnological Research (4 units),BTEC
+39,BTEC 6940 - Advanced Biotechnological Research (4 units),BTEC
+40,CBME 5320 - Water Quality and Assessment (3 units),CBME
+41,CBME 5520 - Characterization of Polymers (3 units),CBME
+42,"CBME 5820 - Energy, Environment and Sustainable Development (3 units)",CBME
+43,CBME 5830 - Electrochemical Energy Technologies (3 units),CBME
+44,CBME 5840 - Nanomaterials for Chemical Engineering Applications (3 units),CBME
+45,CBME 6980A - Independent Project (3 units),CBME
+46,CBME 6980B - Independent Project (6 units),CBME
+47,CENG 1000 - Introduction to Chemical and Biomolecular Engineering (3 units),CENG
+48,CENG 1010 - Academic and Professional Development I (0 units),CENG
+49,CENG 1600 - Biotechnology and Its Business Opportunities (3 units),CENG
+50,CENG 2110 - Processes Principles (3 units),CENG
+51,CENG 3210 - Separation Processes (3 units),CENG
+52,CENG 3230 - Reaction and Reactor Engineering (3 units),CENG
+53,CENG 3910 - Chemical Engineering Laboratory I (3 units),CENG
+54,CENG 4000J - Polymer Physics and Advanced Applications (3 units),CENG
+55,CENG 4130 - Plant Design and Economics (3 units),CENG
+56,CENG 4620 - Bioproducts and Processing (3 units),CENG
+57,CENG 4710 - Environmental Control (3 units),CENG
+58,CENG 4911 - Chemical Engineering Project (7 units),CENG
+59,CENG 4912 - Chemical and Environmental Engineering Project (7 units),CENG
+60,CENG 4913 - Chemical and Biomolecular Engineering Project (7 units),CENG
+61,CENG 4970 - Introduction to Research in Chemical and Biomolecular Engineering (0 units),CENG
+62,CENG 4980J - Investigation Project (3 units),CENG
+63,CENG 5400 - Advanced Transport Phenomena (3 units),CENG
+64,CENG 5930 - Electrochemical Energy Technologies (3 units),CENG
+65,CENG 6000H - Polymer and Materials Characterization (3 units),CENG
+66,CENG 6800M - Chemical and Biomolecular Engineering Seminar (0 units),CENG
+67,CENG 6900C - Independent Study (1 unit),CENG
+70,CHEM 1004 - Chemistry in Everyday Life (3 units),CHEM
+71,CHEM 1010 - General Chemistry IA (3 units),CHEM
+72,CHEM 1020 - General Chemistry IB (2 units),CHEM
+73,CHEM 1050 - Laboratory for General Chemistry I (1 unit),CHEM
+74,CHEM 2110 - Organic Chemistry I (3 units),CHEM
+75,CHEM 2150 - Organic Chemistry Laboratory (1 unit),CHEM
+76,CHEM 2210 - Inorganic Chemistry I (3 units),CHEM
+77,CHEM 2250 - Inorganic Chemistry Laboratory (1 unit),CHEM
+78,CHEM 2310 - Fundamentals of Analytical Chemistry (3 units),CHEM
+79,CHEM 2350 - Analytical Chemistry Laboratory (1 unit),CHEM
+80,CHEM 2410 - Physical Chemistry I: Equilibrium Thermodynamics and Statistical Mechanics (3 units),CHEM
+81,CHEM 2450 - Physical Chemistry Laboratory (1 unit),CHEM
+82,CHEM 4120 - Biomolecular Chemistry (3 units),CHEM
+83,CHEM 4140 - Intermediate Organic Chemistry (3 units),CHEM
+84,CHEM 4150 - Biomolecular Synthesis Laboratory (1 unit),CHEM
+85,CHEM 4155 - Biomolecular Characterization Laboratory (1 unit),CHEM
+86,CHEM 4250 - Materials Preparation Laboratory (1 unit),CHEM
+87,CHEM 4255 - Materials Characterization Laboratory (1 unit),CHEM
+88,CHEM 4320 - Environmental Analytical Chemistry (3 units),CHEM
+89,CHEM 4340 - Bioanalytical Techniques (3 units),CHEM
+90,CHEM 4350 - Environmental Chemistry Laboratory (1 unit),CHEM
+91,CHEM 4355 - Instrumental Analytical Chemistry Laboratory (1 unit),CHEM
+92,CHEM 4430 - Symmetry in Chemistry and Spectroscopy (3 units),CHEM
+93,CHEM 4550 - Advanced Synthetic Laboratory (1 unit),CHEM
+94,CHEM 4555 - Advanced Molecular Characterization Laboratory (1 unit),CHEM
+95,CHEM 4640 - Chemistry for Advanced Solar Cell Technologies (3 units),CHEM
+96,CHEM 4680 - Undergraduate Research (3 units),CHEM
+97,CHEM 4689 - Capstone Project (3 units),CHEM
+98,CHEM 4691 - Capstone Research I (3 units),CHEM
+99,CHEM 4692 - Capstone Research II (3 units),CHEM
+100,CHEM 5110 - Advanced Organic Chemistry I (3 units),CHEM
+101,CHEM 5310 - Advanced Inorganic Chemistry I (3 units),CHEM
+102,CHEM 5340 - Chemical X-ray Crystallography (3 units),CHEM
+103,CHEM 5540 - Chemistry for Advanced Materials (3 units),CHEM
+104,CHEM 6000M - Chemistry Seminar (1 unit),CHEM
+105,CHEM 6770 - Professional Development in Science (Chemistry) (2 units),CHEM
+106,CHEM 6771 - Professional Enrichment in Chemistry (1 unit),CHEM
+107,CHEM 6980A - Research Project (1 unit),CHEM
+110,CHMS 5010 - Chemical Data Analysis (3 units),CHMS
+111,CHMS 5020 - Elemental Analysis (3 units),CHMS
+112,CHMS 5030 - Molecular Analysis (3 units),CHMS
+113,CHMS 5040 - Separation Methods (3 units),CHMS
+114,CHMS 5201 - Analytical Instrumentation Laboratory I (3 units),CHMS
+115,CHMS 5202 - Analytical Instrumentation Laboratory II (3 units),CHMS
+116,CHMS 6980 - Analytical Research Project (3 units),CHMS
+117,CIEM 5310 - Structural Analysis and Design of Tall Buildings (3 units),CIEM
+118,CIEM 5390 - Coastal Structures Design (3 units),CIEM
+119,CIEM 5460 - Design and Management of Physico/Chemical Processes of Environmental Engineering (3 units),CIEM
+120,CIEM 5480 - Wastewater Treatment and Reuse (3 units),CIEM
+121,CIEM 5630 - Traffic Control Fundamentals and Practice (3 units),CIEM
+122,CIEM 5720 - Advanced Foundation Design (3 units),CIEM
+123,CIEM 5730 - Fundamentals of Geomechanics (3 units),CIEM
+124,CIEM 6000K - Building Information Modeling and Smart Construction (3 units),CIEM
+125,CIEM 6000L - Building Aerodynamics and Wind-Resistant Design of High-Rise Structures (3 units),CIEM
+126,CIEM 6980 - MSc Project (6 units),CIEM
+127,CIVL 1010 - Academic and Professional Development I (0 units),CIVL
+128,CIVL 1100 - Discovering Civil and Environmental Engineering (3 units),CIVL
+129,CIVL 1140 - Environmental Quality Control and Improvement (3 units),CIVL
+130,CIVL 1160 - Civil Engineering and Modern Society (3 units),CIVL
+131,CIVL 2010 - Academic and Professional Development II (0 units),CIVL
+132,CIVL 2020 - Industrial Training (0 units),CIVL
+133,CIVL 2110 - Statics (3 units),CIVL
+134,CIVL 2120 - Mechanics of Materials (3 units),CIVL
+135,CIVL 2160 - Modeling Systems with Uncertainties (3 units),CIVL
+136,CIVL 2810 - Construction Materials (3 units),CIVL
+137,CIVL 3010 - Academic and Professional Development III (0 units),CIVL
+138,CIVL 3310 - Structural Analysis (3 units),CIVL
+139,CIVL 3510 - Hydrosystems Engineering (3 units),CIVL
+140,CIVL 3730 - Fundamentals of Geotechnics (3 units),CIVL
+141,CIVL 4100E - Climate Modeling and Risk Assessment (3 units),CIVL
+142,CIVL 4320 - Structural Steel Design (3 units),CIVL
+143,CIVL 4380 - Introduction to Wind Effects on Buildings and Structures (3 units),CIVL
+144,CIVL 4440 - Environmental Systems Analysis (3 units),CIVL
+145,CIVL 4450 - Carbon Footprint Analysis and Reduction (3 units),CIVL
+146,CIVL 4460 - Process Design of Environmental Engineering Facilities (3 units),CIVL
+147,CIVL 4470 - Air Quality Control and Management (3 units),CIVL
+148,CIVL 4520 - Municipal Hydrosystems Engineering and Management (3 units),CIVL
+149,CIVL 4620 - Transportation System Operations (3 units),CIVL
+150,CIVL 4700 - Engineering Geology (3 units),CIVL
+151,CIVL 4750 - Numerical Solutions to Geotechnical Problems (3 units),CIVL
+152,CIVL 4900A - Directed Studies (1 unit),CIVL
+153,CIVL 4910 - Civil and Environmental Engineering Final Year Project (6 units),CIVL
+154,CIVL 4920 - Civil and Environmental Engineering Final Year Thesis (6 units),CIVL
+155,CIVL 4950 - Civil Engineering Capstone Design Project (3 units),CIVL
+156,CIVL 5220 - Construction Information Technology (3 units),CIVL
+157,CIVL 5310 - Structural Analysis and Design of Tall Buildings (3 units),CIVL
+158,CIVL 5350 - Bridge Engineering (3 units),CIVL
+159,CIVL 5460 - Landfill Engineering and Design (3 units),CIVL
+160,CIVL 5470 - Industrial Wastewater Treatment (3 units),CIVL
+161,CIVL 5610 - Urban Transportation Networks Analysis (3 units),CIVL
+162,CIVL 5630 - Traffic Control Fundamentals (3 units),CIVL
+163,CIVL 5710 - Advanced Soil Mechanics (3 units),CIVL
+164,CIVL 5750 - Geotechnical Earthquake Engineering and Soil Dynamics (3 units),CIVL
+165,CIVL 5760 - Geotechnical Site Characterization (3 units),CIVL
+166,CIVL 5770 - Unsaturated Soil Mechanics and Engineering (3 units),CIVL
+167,CIVL 6010A - Directed Studies (1 unit),CIVL
+168,CIVL 6010G - Directed Studies (3 units),CIVL
+169,CIVL 6050N - Civil Engineering Seminar I (0 units),CIVL
+170,CIVL 6060T - Civil Engineering Seminar II (0 units),CIVL
+171,CIVL 6100H - Fluid Transients and Model-Based Detection of Anomalies (3 units),CIVL
+172,CIVL 6770 - Professional Development in Civil and Environmental Engineering (1 unit),CIVL
+175,COMP 1001 - Exploring Multimedia and Internet Computing (3 units),COMP
+176,COMP 1021 - Introduction to Computer Science (3 units),COMP
+177,COMP 1022P - Introduction to Computing with Java (3 units),COMP
+178,COMP 1022Q - Introduction to Computing with Excel VBA (3 units),COMP
+179,COMP 1029A - Introduction to Mobile Application Development Using Android (1 unit),COMP
+180,COMP 1029C - C Programming Bridging Course (1 unit),COMP
+181,COMP 1029J - Java Programming Bridging Course (1 unit),COMP
+182,COMP 1029P - Python Programming Bridging Course (1 unit),COMP
+183,COMP 1029V - Excel VBA Programming Bridging Course (1 unit),COMP
+184,COMP 1991 - Industrial Experience (0 units),COMP
+185,COMP 1999 - Industrial Training (0 units),COMP
+186,COMP 2011 - Introduction to Object-oriented Programming (4 units),COMP
+187,COMP 2012 - Object-Oriented Programming and Data Structures (4 units),COMP
+188,COMP 2012H - Honors Object-Oriented Programming and Data Structures (5 units),COMP
+189,COMP 2521 - Mobile Application Development Projects (3 units),COMP
+190,COMP 2611 - Computer Organization (4 units),COMP
+191,COMP 2711 - Discrete Mathematical Tools for Computer Science (4 units),COMP
+192,COMP 2711H - Honors Discrete Mathematical Tools for Computer Science (4 units),COMP
+193,COMP 3021 - Java Programming (3 units),COMP
+194,COMP 3031 - Principles of Programming Languages (3 units),COMP
+195,COMP 3111 - Software Engineering (4 units),COMP
+196,COMP 3111H - Honors Software Engineering (4 units),COMP
+197,COMP 3211 - Fundamentals of Artificial Intelligence (3 units),COMP
+198,COMP 3311 - Database Management Systems (3 units),COMP
+199,COMP 3511 - Operating Systems (3 units),COMP
+200,COMP 3632 - Principles of Cybersecurity (3 units),COMP
+201,COMP 3711 - Design and Analysis of Algorithms (3 units),COMP
+202,COMP 3711H - Honors Design and Analysis of Algorithms (4 units),COMP
+203,COMP 3721 - Theory of Computation (3 units),COMP
+204,COMP 4021 - Internet Computing (3 units),COMP
+205,COMP 4311 - Principles of Database Design (3 units),COMP
+206,COMP 4331 - Data Mining (3 units),COMP
+207,COMP 4421 - Image Processing (3 units),COMP
+208,COMP 4461 - Human-Computer Interaction (3 units),COMP
+209,COMP 4621 - Computer Communication Networks I (3 units),COMP
+210,COMP 4651 - Cloud Computing and Big Data Systems (3 units),COMP
+211,COMP 4900 - Academic and Professional Development (0 units),COMP
+212,COMP 4901J - Deep Learning for Computer Vision (3 units),COMP
+213,COMP 4971A - Independent Work (1 unit),COMP
+214,COMP 4971C - Independent Work (3 units),COMP
+215,COMP 4971F - Independent Work (3 units),COMP
+216,COMP 4981 - Final Year Project (6 units),COMP
+217,COMP 4981H - Final Year Thesis (6 units),COMP
+218,COMP 4988 - Computer Engineering Final Year Project (6 units),COMP
+219,COMP 4989 - Computer Engineering Final Year Thesis (6 units),COMP
+220,COMP 5112 - Parallel Programming (3 units),COMP
+221,COMP 5211 - Advanced Artificial Intelligence (3 units),COMP
+222,COMP 5331 - Knowledge Discovery in Databases (3 units),COMP
+223,COMP 5411 - Advanced Computer Graphics (3 units),COMP
+224,COMP 5621 - Computer Networks (3 units),COMP
+225,COMP 5631 - Cryptography and Security (3 units),COMP
+226,COMP 5711 - Introduction to Advanced Algorithmic Techniques (3 units),COMP
+227,COMP 6311E - Blockchain and Cryptocurrency Technologies (3 units),COMP
+228,COMP 6770 - Professional Development in Computer Science and Engineering (1 unit),COMP
+229,COMP 6911 - Computer Science and Engineering Seminar I (0 units),COMP
+230,COMP 6912 - Computer Science and Engineering Seminar II (1 unit),COMP
+231,COMP 6921C - Research Project: Concurrency Study (1 unit),COMP
+232,COMP 6921U - Research Project (1 unit),COMP
+233,COMP 6921V - Research Project (1 unit),COMP
+234,COMP 6931A - Independent Studies (3 units),COMP
+237,CPEG 1971 - Industrial Experience (0 units),CPEG
+238,CPEG 2930 - Academic and Professional Development I (0 units),CPEG
+239,CPEG 3930 - Academic and Professional Development II (0 units),CPEG
+240,CSIC 5011 - Topological and Geometric Data Reduction and Visualization (3 units),CSIC
+241,CSIT 5110 - Multimedia Development (3 units),CSIT
+242,CSIT 5210 - Data Mining and Knowledge Discovery (3 units),CSIT
+243,CSIT 5410 - Recognition Systems (3 units),CSIT
+244,CSIT 5610 - Computer Networks: An Internet Perspective (3 units),CSIT
+245,CSIT 5710 - Cryptography and Security (3 units),CSIT
+246,CSIT 6000F - Artificial Intelligence (3 units),CSIT
+247,CSIT 6910A - Independent Project (3 units),CSIT
+248,CSIT 6910C - Independent Project (1 unit),CSIT
+249,CSIT 6910D - Independent Project (3 units),CSIT
+250,ECON 2103 - Principles of Microeconomics (3 units),ECON
+251,ECON 2113 - Microeconomics (3 units),ECON
+252,ECON 2123 - Macroeconomics (3 units),ECON
+253,ECON 2174 - Mathematics for Economists (4 units),ECON
+254,ECON 2310 - Introductory Environmental and Health Economics (3 units),ECON
+255,ECON 3014 - Managerial Microeconomics (4 units),ECON
+256,ECON 3024 - Managerial Macroeconomics (4 units),ECON
+257,ECON 3133 - Microeconomic Theory II (4 units),ECON
+258,ECON 3143 - Macroeconomic Theory II (4 units),ECON
+259,ECON 3334 - Introduction to Econometrics (4 units),ECON
+260,ECON 4124 - Applied Game Theory (4 units),ECON
+261,ECON 4234 - Labor Economics and Human Resources (4 units),ECON
+262,ECON 4284 - Econometrics for Cross-Section and Panel Data (4 units),ECON
+263,ECON 4334 - Money and Banking (4 units),ECON
+264,ECON 4364 - International Trade and Investment (4 units),ECON
+265,ECON 4374 - International Macroeconomics and Finance (4 units),ECON
+266,ECON 4434 - Economic Development and Growth (4 units),ECON
+267,ECON 4670 - Economics Research and Communication (0 units),ECON
+268,ECON 5030 - Foundations of Economic Analysis (2 units),ECON
+269,ECON 5050 - China’s Economic Model : Key Insights and the Way Forward (2 units),ECON
+270,ECON 5100 - Mathematics for Business and Economics (3 units),ECON
+271,ECON 5110 - Managerial Microeconomics (2 units),ECON
+272,ECON 5130 - Microeconomic Analysis (4 units),ECON
+273,ECON 5140 - Macroeconomic Analysis (4 units),ECON
+274,ECON 5200 - Global Macroeconomics (2 units),ECON
+275,ECON 5210 - Microeconomic Theory I (4 units),ECON
+276,ECON 5250 - Macroeconomic Theory I (4 units),ECON
+277,ECON 5280 - Applied Econometrics (4 units),ECON
+278,ECON 6100S - Financial Economics II: Corporate Finance (2 units),ECON
+279,ECON 6100T - International Macroeconomics and the Chinese Economy (2 units),ECON
+280,ECON 6101A - International Finance (2 units),ECON
+281,ECON 6120M - Topics in Monetary Economics (4 units),ECON
+282,ECON 6980 - Independent Project (6 units),ECON
+285,EEMT 5120 - Operation/Production Management (3 units),EEMT
+286,EEMT 5220 - Six Sigma Quality Management (3 units),EEMT
+287,EEMT 5360 - IT System for Global Enterprise (3 units),EEMT
+288,"EEMT 5500 - Applied Probability, Statistics and Data Analytics (3 units)",EEMT
+289,EEMT 5510 - Engineering Economics and Cost Management (3 units),EEMT
+290,EEMT 5990 - Problem Solving for Engineering Managers (1 unit),EEMT
+291,EEMT 6900 - Independent Study (3 units),EEMT
+292,EESM 5000 - CMOS VLSI Design (3 units),EESM
+293,EESM 5060 - Embedded Systems (3 units),EESM
+294,EESM 5100 - Analog IC Analysis and Design (3 units),EESM
+295,EESM 5200 - Semiconductor Devices for Integrated Circuit Designs (3 units),EESM
+296,EESM 5515 - IP Networks (3 units),EESM
+297,EESM 5536 - Digital Communications (3 units),EESM
+298,EESM 5539 - Wireless Communication Networks (3 units),EESM
+299,EESM 5620 - Flat Panel Displays (3 units),EESM
+300,EESM 5650 - Digital Communication Networks and Systems (3 units),EESM
+301,EESM 5770 - Engineering Research Methodologies (3 units),EESM
+302,EESM 5910 - Topics in Telecommunications and Network Convergence (3 units),EESM
+303,EESM 6900 - Independent Study (3 units),EESM
+304,EESM 6980G - MSc Project (3 units),EESM
+305,EESM 6980H - MSc Project (3 units),EESM
+306,ELEC 1010 - Electronic and Information Technology (3 units),ELEC
+307,ELEC 1100 - Introduction to Electro-Robot Design (4 units),ELEC
+308,ELEC 1200 - A System View of Communications: from Signals to Packets (4 units),ELEC
+309,ELEC 1990 - Industrial Training (0 units),ELEC
+310,ELEC 1991 - Industrial Experience (Electronic Engineering) (0 units),ELEC
+311,ELEC 2100 - Signals and Systems (4 units),ELEC
+312,ELEC 2100H - Honors Signals and Systems (4 units),ELEC
+313,ELEC 2200 - Digital Circuits and Systems (4 units),ELEC
+314,ELEC 2300 - Computer Organization (4 units),ELEC
+315,ELEC 2400 - Electronic Circuits (4 units),ELEC
+316,ELEC 2420 - Basic Electronics (3 units),ELEC
+317,ELEC 2600 - Probability and Random Processes in Engineering (4 units),ELEC
+318,ELEC 2600H - Honors Probability and Random Processes in Engineering (4 units),ELEC
+319,ELEC 2910 - Academic and Professional Development I (0 units),ELEC
+320,"ELEC 3200 - System Modeling, Analysis and Control (4 units)",ELEC
+321,ELEC 3300 - Introduction to Embedded Systems (4 units),ELEC
+322,ELEC 3400 - Introduction to Integrated Circuits and Systems (4 units),ELEC
+323,ELEC 3500 - Microelectronic Devices and Technology (4 units),ELEC
+324,ELEC 3910 - Academic and Professional Development II (0 units),ELEC
+325,ELEC 4010K - Machine Learning and Information Processing for Robotic Perception (3 units),ELEC
+326,ELEC 4010L - Display Technology (3 units),ELEC
+327,ELEC 4130 - Digital Image Processing (3 units),ELEC
+328,ELEC 4150 - Information Theory and Error-Correcting Codes (3 units),ELEC
+329,ELEC 4170 - Digital Media and Multimedia Applications (4 units),ELEC
+330,ELEC 4320 - FPGA-based Design: From Theory to Practice (3 units),ELEC
+331,ELEC 4410 - CMOS VLSI Design (3 units),ELEC
+332,ELEC 4810 - Introduction to Biosensors and Bioinstrumentation (4 units),ELEC
+333,ELEC 4820 - Medical Imaging (3 units),ELEC
+334,ELEC 4900 - Final Year Design Project (6 units),ELEC
+335,ELEC 4901 - Final Year Thesis (6 units),ELEC
+336,ELEC 4918 - Computer Engineering Final Year Project (6 units),ELEC
+337,ELEC 4919 - Computer Engineering Final Year Thesis (6 units),ELEC
+338,ELEC 4940C - Independent Study (1 unit),ELEC
+339,ELEC 5010 - Introduction to the Design & Implementation of Micro-Systems (3 units),ELEC
+340,ELEC 5040 - Advanced Analog IC Analysis and Design (3 units),ELEC
+341,ELEC 5070 - Microelectronics Fabrication Technology (3 units),ELEC
+342,ELEC 5090 - Advanced Photonics Technologies (3 units),ELEC
+343,ELEC 5300 - Stochastic Processes (3 units),ELEC
+344,ELEC 5360 - Principles of Digital Communications (3 units),ELEC
+345,ELEC 5470 - Convex Optimization (3 units),ELEC
+346,ELEC 5540 - High Tech Innovation and Entrepreneurship (3 units),ELEC
+347,ELEC 5600 - Linear-System Theory (3 units),ELEC
+348,ELEC 5640 - Robot Manipulation (3 units),ELEC
+349,ELEC 5660 - Introduction to Aerial Robotics (3 units),ELEC
+350,ELEC 6770 - Professional Development in Electronic and Computer Engineering (1 unit),ELEC
+351,ELEC 6900A - Independent Study (1 unit),ELEC
+352,ELEC 6950A - Departmental Seminar (0 units),ELEC
+353,ELEC 6950B - Departmental Seminar (0 units),ELEC
+356,ENGG 1010 - Academic Orientation (0 units),ENGG
+357,ENGG 1100 - First Year Cornerstone Engineering Design Project Course (3 units),ENGG
+358,ENGG 1110 - Engineering Solutions to Grand Challenges of the 21st Century (3 units),ENGG
+359,"ENGG 1150 - Information Technology Revolution: Past, Present and Future (3 units)",ENGG
+360,ENGG 1900 - Service Learning Program (1 unit),ENGG
+361,ENGG 2010 - Engineering Seminar Series (0 units),ENGG
+362,ENGG 2900A - Community Services Project: Developing Leadership Through Service Learning (2 units),ENGG
+363,ENGG 2990J - Systems Design Engineering (3 units),ENGG
+364,ENGG 2991A - Undergraduate Student-initiated Experiential Learning (1 unit),ENGG
+365,ENGG 2992A - Undergraduate Student-initiated Experiential Learning (2 units),ENGG
+366,ENGG 2993A - Undergraduate Student-initiated Experiential Learning (3 units),ENGG
+367,ENGG 4901 - Integrated Final Year Project - First Major (3 units),ENGG
+368,ENGG 4902 - Integrated Final Year Project - Second Major (3 units),ENGG
+369,ENGG 4903 - Integrated Final Year Thesis - First Major (3 units),ENGG
+370,ENGG 4904 - Integrated Final Year Thesis - Second Major (3 units),ENGG
+371,ENGG 4950T - Engineering Special Project: Design for Global Health (3 units),ENGG
+372,ENGG 5001 - Technology Leadership and Entrepreneurship (2 units),ENGG
+373,ENGG 6000G - Technology Leadership and Entrepreneurship Seminar (1 unit),ENGG
+374,ENGG 6770 - Professional Development in Engineering (1 unit),ENGG
+376,ENTR 2010 - Entrepreneurship Seminars and Readings (1 unit),ENTR
+377,ENTR 3030 - Social Innovations and Entrepreneurship (3 units),ENTR
+378,ENTR 4000A - Global Product Development for Successful Technology Startups (3 units),ENTR
+379,ENTR 4901E - Student-led Entrepreneurship Acceleration Project (1 unit),ENTR
+380,ENTR 4902E - Student-led Entrepreneurship Acceleration Project (2 units),ENTR
+381,ENTR 4903E - Student-led Entrepreneurship Acceleration Project (3 units),ENTR
+382,ENTR 4904E - Student-led Entrepreneurship Acceleration Project (4 units),ENTR
+383,ENVR 1001 - EVMT Orientation (0 units),ENVR
+384,ENVR 1070 - Thinking Big: Systems Thinking for Environmental Problems (3 units),ENVR
+385,ENVR 1080 - The Smart Consumer - Uncovering the Hidden Story behind the Product Label (3 units),ENVR
+386,ENVR 1811 - Environmental Management and Technology Study Trip I (1 unit),ENVR
+387,ENVR 2001 - Academic and Professional Development I (1 unit),ENVR
+388,ENVR 2002B - Life Cycle Analysis (2 units),ENVR
+389,ENVR 2010 - Environmental Science Fundamentals (3 units),ENVR
+390,ENVR 2030 - Material and Energy Balance for Environmental Management (3 units),ENVR
+391,ENVR 2310 - Introductory Environmental and Health Economics (3 units),ENVR
+392,ENVR 3001 - Academic and Professional Development II (1 unit),ENVR
+393,ENVR 3003 - Green Buildings and Energy Efficiency (3 units),ENVR
+394,ENVR 3010G - Sustainability Thinking (3 units),ENVR
+395,ENVR 3010K - Explore and Research the Atmospheric Environment - Engaging High School Community (2 units),ENVR
+396,ENVR 3110 - Sustainable Development (3 units),ENVR
+397,ENVR 3220 - Energy Resources and Usage (3 units),ENVR
+398,ENVR 3420 - Environmental Law and Regulations (3 units),ENVR
+399,ENVR 4000O - Climate Modeling and Risk Assessment (3 units),ENVR
+400,ENVR 4001 - Academic and Professional Development III (1 unit),ENVR
+401,ENVR 4010B - Independent Study in Environment Issues (1 unit),ENVR
+402,ENVR 4980 - Environmental Management and Technology Capstone Project I (3 units),ENVR
+403,ENVR 4990 - Environmental Management and Technology Capstone Project II (3 units),ENVR
+404,ENVR 5250 - Environmental Economics and Management (3 units),ENVR
+405,ENVR 5260 - Environmental Policy and Management (3 units),ENVR
+406,ENVR 6050 - Introduction to Oceanography (3 units),ENVR
+407,"ENVR 6770 - Professional Development in Environmental Science, Policy and Management (1 unit)",ENVR
+410,ENVS 2001 - Environmental Conservation and Sustainability in Practice (1 unit),ENVS
+411,ENVS 2004 - Introduction to Ocean Science (3 units),ENVS
+412,ENVS 3001 - Pollution Monitoring and Measurement (3 units),ENVS
+413,ENVS 3005 - Environmental Microbiology (3 units),ENVS
+414,ENVS 4001 - Environmental Impact and Risk Assessment (3 units),ENVS
+415,ENVS 4974 - Environmental Science Project Research I (3 units),ENVS
+416,ENVS 5111 - Environmental Health and Safety (3 units),ENVS
+417,ENVS 5112 - Environmental Hazards Identification (3 units),ENVS
+418,ENVS 5113 - Marine Ecotoxicology (3 units),ENVS
+419,ENVS 5114 - Environmental Diseases and Microbiology (3 units),ENVS
+420,ENVS 5118 - Conservation and Sustainable Development (3 units),ENVS
+421,ENVS 6011K - Postgraduate Seminar (1 unit),ENVS
+422,ENVS 6111A - Environmental Health Research Project (3 units),ENVS
+423,ENVS 6111B - Environmental Health Research Project (6 units),ENVS
+424,ENVS 6770 - Professional Development in Science (Environmental Science Programs) (2 units),ENVS
+427,EVNG 6050M - Environmental Engineering Seminar (0 units),EVNG
+428,EVNG 6770 - Professional Development in Environmental Engineering (1 unit),EVNG
+431,EVSM 5220 - Advanced Environmental Chemistry (3 units),EVSM
+432,EVSM 5230 - Environmental Health and Management (3 units),EVSM
+433,EVSM 5240 - GIS for Environmental Professionals (3 units),EVSM
+434,EVSM 6950A - MSc Project (3 units),EVSM
+435,EVSM 6950B - MSc Project (3 units),EVSM
+436,FINA 1303 - Introduction to Financial Markets (3 units),FINA
+437,FINA 2203 - Fundamentals of Business Finance (3 units),FINA
+438,FINA 2303 - Financial Management (3 units),FINA
+439,FINA 3103 - Intermediate Investments (3 units),FINA
+440,FINA 3203 - Derivative Securities (3 units),FINA
+441,FINA 3303 - Intermediate Corporate Finance (3 units),FINA
+442,FINA 3403 - Corporate Valuation (3 units),FINA
+443,FINA 3810 - Bloomberg Market Concepts Certification (0 units),FINA
+444,FINA 4003 - Wealth Management (3 units),FINA
+445,FINA 4503 - Banking and Financial Intermediation (3 units),FINA
+446,FINA 4929J - Behavioral Finance (3 units),FINA
+447,FINA 4929K - Applications of New Technologies in Finance (3 units),FINA
+448,FINA 5120 - Corporate Finance (2 units),FINA
+449,FINA 5160 - Private Equity Investing (2 units),FINA
+450,FINA 5210 - Investment Analysis (2 units),FINA
+451,FINA 5220 - Equity Investment Management (2 units),FINA
+452,FINA 5290 - Derivatives Analysis (2 units),FINA
+453,FINA 5360 - Fixed Income Analysis (2 units),FINA
+454,FINA 5380 - Raising Debt in the Financial Markets (2 units),FINA
+455,FINA 5390 - Venture Capital and Private Equity (2 units),FINA
+456,FINA 5590 - Trading in Equity Markets (2 units),FINA
+457,FINA 6900P - Behavioral Finance for Wealth Management and Private Banking (2 units),FINA
+458,FINA 6900Q - Financial Markets and Bank Intermediation (2 units),FINA
+459,FINA 6900S - Real Estate Financing (2 units),FINA
+460,FINA 7900C - Doctoral Seminar: Empirical Corporate Finance (3 units),FINA
+461,FINA 7900D - Doctoral Seminar: Empirical Asset Pricing (3 units),FINA
+462,FINA 7980M - Finance Workshops (1 unit),FINA
+464,GBUS 1000 - Global Leadership Development (0 units),GBUS
+465,GBUS 2020 - Public Service Project (1 unit),GBUS
+466,GBUS 3030 - Global Business Case Studies (4 units),GBUS
+467,GBUS 3040 - Doing Business in Asia and Emerging Markets (3 units),GBUS
+468,GBUS 4910 - Capstone Project (4 units),GBUS
+469,GNED 2510 - Career Building (1 unit),GNED
+470,HART 1014 - Introduction to Chinese Calligraphy (1 unit),HART
+471,HART 1017 - Introduction to Contemporary Dance (1 unit),HART
+472,HART 1018 - Introduction and Appreciation of Chinese Dance (1 unit),HART
+473,HART 1025 - Introduction to New Topographic Photography (1 unit),HART
+474,HART 1036 - Introduction to Graphic Design (1 unit),HART
+475,HART 1041 - Singing on Stage (1 unit),HART
+476,HART 1044 - Science on Stage (1 unit),HART
+477,HART 1045 - Exploring Puppetry: Creating a Shadow Puppet Production (1 unit),HART
+478,HLTH 1010 - Healthy Lifestyle (0 units),HLTH
+479,HMMA 5001 - Fundamentals of Chinese Culture (3 units),HMMA
+480,HMMA 5007 - Fundamentals of Chinese Philosophy (3 units),HMMA
+481,HMMA 5470 - China in Foreigners’ Eyes (3 units),HMMA
+482,"HUMA 1000A - Cultures and Values: Language, Communication and Society (3 units)",HUMA
+483,"HUMA 1000B - Cultures and Values: Righteousness, Destiny and Well-being (3 units)",HUMA
+484,HUMA 1001A - Foundational Texts in the Humanities: Aristotle x Mencius - The Basic Concepts of Logic and Rhetoric (3 units),HUMA
+485,HUMA 1100 - Music of the World (3 units),HUMA
+486,HUMA 1102 - Enjoyment of Classical Music (3 units),HUMA
+487,HUMA 1300 - Introduction to Western Literature (3 units),HUMA
+488,"HUMA 1430 - History of P. R. China's Diplomacy, 1949-1989 (3 units)",HUMA
+489,HUMA 1440 - Modern China (3 units),HUMA
+490,HUMA 1810 - Introduction to Chinese Philosophy (3 units),HUMA
+491,HUMA 1920 - Introduction to Moral Philosophy (3 units),HUMA
+492,HUMA 2010 - Metaphors in English and Chinese (3 units),HUMA
+493,HUMA 2031 - The Cantonese Language (3 units),HUMA
+494,HUMA 2103 - Introduction to Music Composition (3 units),HUMA
+495,HUMA 2104 - Music Theory I (3 units),HUMA
+496,HUMA 2240 - Masterpieces of Chinese Literature (3 units),HUMA
+497,HUMA 2320 - Chinese Drama (3 units),HUMA
+498,"HUMA 2589 - Mussolini, Stalin, Hitler: Dictators and their Regimes (3 units)",HUMA
+499,HUMA 2621 - Culture and Environment (3 units),HUMA
+500,HUMA 2623 - Cultural Sustainability in South China (3 units),HUMA
+501,HUMA 2633 - Before Mao: Traditional Chinese Society from 1800 to 1949 (3 units),HUMA
+502,HUMA 2680 - Understanding Western Architecture (3 units),HUMA
+503,HUMA 2921 - Ethical Theories and Contemporary Issues (3 units),HUMA
+504,HUMA 3101 - Enjoyment of Western Opera (3 units),HUMA
+505,HUMA 3102 - Making Chamber Music A (2 units),HUMA
+506,HUMA 3630 - Community and Cultural Identity (3 units),HUMA
+507,HUMA 3660 - Tradition & Modernity: Chinese Ink Painting in 20th Century (3 units),HUMA
+508,HUMA 3810 - Taoism and the Chinese Tradition (3 units),HUMA
+509,HUMA 4020 - Language and Literature in Modern China (3 units),HUMA
+510,HUMA 4250 - Masterpieces of Modern Literature (3 units),HUMA
+511,HUMA 5280 - Cantonese Grammar in Contemporary Linguistic Theories (3 units),HUMA
+512,HUMA 5340 - Modern Chinese Literary Criticism (3 units),HUMA
+513,HUMA 5470 - China in Foreigners' Eyes (3 units),HUMA
+514,HUMA 5590 - Southwest China and Southeast Asia (3 units),HUMA
+515,HUMA 5625 - Painting and Modernity in China: Qing and After (3 units),HUMA
+516,HUMA 5660 - City and Urban Life in Late-Imperial and Modern China (3 units),HUMA
+517,HUMA 5695 - Fascism (3 units),HUMA
+518,HUMA 5700 - Anthropological Studies of China (3 units),HUMA
+519,HUMA 5840 - Chinese Buddhism (3 units),HUMA
+520,HUMA 6001U - Traveling Texts and Images: Modern Chinese Literature and Print Culture (3 units),HUMA
+521,HUMA 6100A - Independent Study (3 units),HUMA
+522,HUMA 6100B - Independent Study (3 units),HUMA
+523,HUMA 6200 - Research Project in Humanities (3 units),HUMA
+524,HUMA 6300 - Postgraduate Seminar (1 unit),HUMA
+527,IBTM 5050 - Intelligent Building System (3 units),IBTM
+528,IBTM 5150 - Advanced HVAC Systems (3 units),IBTM
+529,IBTM 5300 - Computational Methods in Building Environment Design (3 units),IBTM
+530,IBTM 5330 - Energy Management in Buildings (3 units),IBTM
+531,IBTM 5460 - Materials in Built Environment (3 units),IBTM
+532,IBTM 5500 - Occupational Safety and Health Issues in Buildings (3 units),IBTM
+533,IBTM 6950A - Independent Studies (3 units),IBTM
+534,IBTM 6950B - Independent Studies (6 units),IBTM
+535,IDPO 6770 - Professional Development for Interdisciplinary Programs (1 unit),IDPO
+536,IELM 1010 - Academic and Professional Development I (0 units),IELM
+537,IELM 1020 - Academic and Professional Development II (0 units),IELM
+538,IELM 1990 - Industrial Training (0 units),IELM
+539,IELM 2010 - Industrial Engineering and Modern Logistics (3 units),IELM
+540,IELM 2150 - Product Design (3 units),IELM
+541,IELM 2410 - Logistics and Freight Transportation Operations (3 units),IELM
+542,IELM 3010 - Operations Research I (3 units),IELM
+543,IELM 3130 - Ergonomics and Safety Management (3 units),IELM
+544,IELM 3150 - Manufacturing Processes (3 units),IELM
+545,IELM 3330 - Introduction to Financial Engineering (3 units),IELM
+546,IELM 3410 - Routing and Fleet Management (3 units),IELM
+547,IELM 3450 - Logistics Planning and Service Management (3 units),IELM
+548,IELM 4200 - Design of Logistics and Manufacturing Systems (3 units),IELM
+549,IELM 4410 - Global Supply Chain Management (3 units),IELM
+550,IELM 4930 - Logistics Management and Engineering Project (6 units),IELM
+551,IELM 4990 - Industrial Engineering Design Project (6 units),IELM
+552,IELM 5170 - Advanced Production Planning and Control (3 units),IELM
+553,IELM 5230 - Deterministic Models in Operations Research (3 units),IELM
+554,IELM 5260 - Advanced Quality Technology and Data Analytics (3 units),IELM
+555,IELM 5270 - Engineering Statistics (3 units),IELM
+556,IELM 6100E - Auction Theory and Mechanism Design (3 units),IELM
+557,IELM 6770 - Professional Development in Industrial Engineering and Logistics Management (1 unit),IELM
+558,IELM 6800M - Departmental Seminar (0 units),IELM
+559,IELM 6850M - Advanced Seminar (0 units),IELM
+562,IIMP 2000 - Academic and Professional Development (0 units),IIMP
+563,IIMP 4980 - Interdisciplinary Capstone Project I (3 units),IIMP
+564,ISOM 1380 - Technology and Innovation: Social and Business Perspectives (3 units),ISOM
+565,ISOM 1500 - Insightful Decisions (3 units),ISOM
+566,ISOM 2010 - Introduction to Information Systems (3 units),ISOM
+567,ISOM 2030 - Business Protections for Innovations (3 units),ISOM
+568,ISOM 2500 - Business Statistics (3 units),ISOM
+569,ISOM 2700 - Operations Management (3 units),ISOM
+570,ISOM 3000A - Business Programming in R (3 units),ISOM
+571,ISOM 3100 - Business Simulation and Strategic Decisions (3 units),ISOM
+572,ISOM 3180 - Telecommunications and Computer Networking Management (3 units),ISOM
+573,ISOM 3210 - Information Systems Analysis and Design (3 units),ISOM
+574,ISOM 3230 - Business Applications Programming (3 units),ISOM
+575,ISOM 3260 - Database Design and Administration (4 units),ISOM
+576,ISOM 3360 - Data Mining for Business Analytics (3 units),ISOM
+577,ISOM 3370 - Big Data Technologies (3 units),ISOM
+578,ISOM 3540 - Introduction to Probability Models (3 units),ISOM
+579,ISOM 3710 - Management Science (4 units),ISOM
+580,ISOM 3730 - Quality and Process Management (4 units),ISOM
+581,ISOM 3760 - Logistics Management (3 units),ISOM
+582,ISOM 4020 - Innovation Management and Technology Entrepreneurship (3 units),ISOM
+583,ISOM 4100 - Information Systems Auditing and Security (3 units),ISOM
+584,ISOM 4400 - Information Systems Project (6 units),ISOM
+585,ISOM 4530 - Statistical Analysis of Financial Data in R/S-plus (4 units),ISOM
+586,ISOM 4740 - Enterprise Resource Management (3 units),ISOM
+587,ISOM 4750 - Business Project Management (3 units),ISOM
+588,ISOM 4770 - Supply Chain Management (3 units),ISOM
+589,ISOM 4820 - Revenue Management (3 units),ISOM
+590,ISOM 4840 - Financial Service Operations Management (3 units),ISOM
+591,ISOM 4880 - Operations Management Project (3 units),ISOM
+592,ISOM 5020 - Information and Technology Management (2 units),ISOM
+593,ISOM 5100 - Information Strategy and Management (2 units),ISOM
+594,ISOM 5130 - Outsourcing Management (2 units),ISOM
+595,ISOM 5180 - Applied Network Management (2 units),ISOM
+596,ISOM 5200 - Innovation and Intellectual Property Law (2 units),ISOM
+597,ISOM 5230 - Consumer Privacy Management in the Information Economy (2 units),ISOM
+598,ISOM 5270 - Big Data Analytics (2 units),ISOM
+599,ISOM 5290 - Information Systems Development Methodologies (2 units),ISOM
+600,ISOM 5370 - Technology and Innovation Management (2 units),ISOM
+601,ISOM 5450 - Technology Consulting (2 units),ISOM
+602,ISOM 5460 - Project Management (2 units),ISOM
+603,ISOM 5480 - Technology Entrepreneurship (2 units),ISOM
+604,ISOM 5510 - Data Analysis (2 units),ISOM
+605,ISOM 5520 - Statistics for Financial Analysis (2 units),ISOM
+606,ISOM 5540 - Introduction to Probability (3 units),ISOM
+607,ISOM 5620 - Visual Analytics for Business Decisions (2 units),ISOM
+608,ISOM 5630 - Business Analytics in R (2 units),ISOM
+609,ISOM 5700 - Operations Management (2 units),ISOM
+610,ISOM 5701 - Operations Analytics (2 units),ISOM
+611,ISOM 5720 - ERP and Enterprise Systems Management (2 units),ISOM
+612,ISOM 5730 - Global Supply Chain Management (2 units),ISOM
+613,ISOM 5800 - Business Modeling (1 unit),ISOM
+614,ISOM 5810 - Business Modeling and Optimization (2 units),ISOM
+615,ISOM 6790G - Global Supply Chain (1 unit),ISOM
+618,JEVE 5260 - Air Pollution Meteorology (3 units),JEVE
+619,JEVE 5320 - Water Quality and Assessment (3 units),JEVE
+620,JEVE 5430 - Solid Waste Landfill Engineering Design (3 units),JEVE
+621,JEVE 5460 - Design and Management of Physico/Chemical Processes of Environmental Engineering (3 units),JEVE
+622,JEVE 5470 - Industrial Wastewater Treatment (3 units),JEVE
+623,JEVE 5480 - Wastewater Treatment and Reuse (3 units),JEVE
+624,"JEVE 5820 - Energy, Environment and Sustainable Development (3 units)",JEVE
+625,JEVE 6980B - Independent Project (6 units),JEVE
+626,LABU 2020 - Effective Communication in Business (2 units),LABU
+627,LABU 2020G - Effective Communication in Business (2 units),LABU
+628,LABU 2040 - Business Case Analyses (3 units),LABU
+629,LABU 2040G - Business Case Analyses (3 units),LABU
+630,LABU 2051 - Business Case Analyses I (2 units),LABU
+631,LABU 2060 - Effective Communication in Business (3 units),LABU
+685,LIFS 1010 - Appreciation of Biological Sciences (3 units),LIFS
+686,LIFS 1030 - Environmental Science (3 units),LIFS
+687,LIFS 1901 - General Biology I (3 units),LIFS
+688,LIFS 1902 - General Biology II (3 units),LIFS
+689,LIFS 1903 - Laboratory for General Biology I (1 unit),LIFS
+690,LIFS 1930 - Nature of Life Sciences (3 units),LIFS
+691,LIFS 2010 - Modern Approaches to Biochemical and Cell Biological Research (3 units),LIFS
+692,LIFS 2011 - A Practicum on Wetland Conservation (3 units),LIFS
+693,LIFS 2060 - Biodiversity (3 units),LIFS
+694,LIFS 2070 - Introduction to Biotechnology (3 units),LIFS
+695,LIFS 2210 - Biochemistry I (3 units),LIFS
+696,LIFS 2720 - Biochemistry Laboratory (2 units),LIFS
+697,LIFS 2820 - Biochemical Laboratory Techniques (1 unit),LIFS
+698,LIFS 3010 - Molecular and Cellular Biology I (3 units),LIFS
+699,LIFS 3110 - Biotechnological Application of Recombinant DNA Techniques (3 units),LIFS
+700,LIFS 3130 - Marine Biology (3 units),LIFS
+701,LIFS 3140 - General Genetics (4 units),LIFS
+702,LIFS 3160 - Ecology (3 units),LIFS
+703,LIFS 3330 - Marine Biology Laboratory (3 units),LIFS
+704,LIFS 3510 - Junior Research Project I (2 units),LIFS
+705,LIFS 3520 - Junior Research Project II (2 units),LIFS
+706,LIFS 4090 - Developmental Biology (3 units),LIFS
+707,LIFS 4150 - Plant Biotechnology (3 units),LIFS
+708,LIFS 4200 - Concepts and Issues in Contemporary Biotechnology (3 units),LIFS
+709,LIFS 4370 - Human Genetics and Personalized Medicine (3 units),LIFS
+710,LIFS 4630 - Advanced Topics in Biotechnology (3 units),LIFS
+711,LIFS 4820 - Entrepreneurship in Biotechnology (3 units),LIFS
+712,LIFS 4910A - Independent Study (1 unit),LIFS
+713,LIFS 4950 - Neurochemistry (3 units),LIFS
+714,LIFS 4960 - Biological Science Capstone Project (3 units),LIFS
+715,LIFS 4961 - Biochemistry and Cell Biology Capstone Project (3 units),LIFS
+716,LIFS 4963 - Biotechnology Capstone Project (3 units),LIFS
+717,LIFS 4970 - Biological Science Project Research I (3 units),LIFS
+718,LIFS 4971 - Biochemistry and Cell Biology Project Research I (3 units),LIFS
+719,LIFS 4973 - Biotechnology Project Research I (3 units),LIFS
+720,LIFS 4981 - Biochemistry and Cell Biology Project Research II (4 units),LIFS
+721,LIFS 4983 - Biotechnology Project Research II (4 units),LIFS
+722,LIFS 5070 - Workshops in Biosciences (3 units),LIFS
+723,LIFS 5240 - Molecular and Developmental Neurobiology (3 units),LIFS
+724,LIFS 5710 - Cellular Regulation (3 units),LIFS
+725,LIFS 6111G - Life Science Postgraduate Student Seminar (1 unit),LIFS
+726,LIFS 6112A - Current Topics in Neuroscience (2 units),LIFS
+727,LIFS 6113A - Current Topics in Biochemistry and Biophysics (2 units),LIFS
+728,LIFS 6114A - Current Topics in Biotechnology and Traditional Chinese Medicine (2 units),LIFS
+729,"LIFS 6170 - Special Topics in Molecular, Cell and Developmental Biology (4 units)",LIFS
+730,LIFS 6410S - Seminar Enrichment Course (1 unit),LIFS
+731,LIFS 6420A - Project Research (1 unit),LIFS
+732,LIFS 6770 - Professional Development in Science (Life Science) (2 units),LIFS
+735,MAED 5021 - Mathematical Analysis and Its Applications I (3 units),MAED
+736,MAED 5121 - Algebra and Its Applications I (3 units),MAED
+737,MAED 5211 - Classical and Modern Geometry (3 units),MAED
+738,MAED 5321 - Combinatorics (3 units),MAED
+739,MAED 5851 - Scientific Computation (3 units),MAED
+740,MAFS 5010 - Stochastic Calculus (3 units),MAFS
+741,MAFS 5030 - Quantitative Modeling of Derivatives Securities (3 units),MAFS
+742,MAFS 5110 - Advanced Data Analysis with Statistical Programming (3 units),MAFS
+743,MAFS 5140 - Statistical Methods in Quantitative Finance (3 units),MAFS
+744,MAFS 5240 - Software Development with C++ for Quantitative Finance (3 units),MAFS
+745,MAFS 6010L - China Financial Markets (3 units),MAFS
+746,MAFS 6010M - Financial Infrastructure - Theory and Applications (3 units),MAFS
+747,MAFS 6010N - Structured Products and Solutions (3 units),MAFS
+748,MAFS 6010O - Technical Trading Strategies (3 units),MAFS
+749,MAFS 6010P - Distributed Ledger Technology and Financial Applications (3 units),MAFS
+750,MARK 2120 - Marketing Management (3 units),MARK
+751,MARK 3220 - Marketing Research (4 units),MARK
+752,MARK 3420 - Consumer Behavior (4 units),MARK
+753,MARK 3430 - Global Marketing (4 units),MARK
+754,MARK 3470 - Services Marketing (4 units),MARK
+755,MARK 3510 - Business to Business Marketing (4 units),MARK
+756,MARK 3520 - Competitive Positioning (4 units),MARK
+757,MARK 4290D - Customer Acquisition and Retention (4 units),MARK
+758,MARK 5120 - Marketing Strategy and Policy (2 units),MARK
+759,MARK 5220 - The Art of War and Eastern Wisdom in Business Competition (1 unit),MARK
+760,MARK 5420 - Behavioral Decision Theory (3 units),MARK
+761,MARK 6510G - Current Topics in Consumer Research (2 units),MARK
+762,MARK 6900Q - B2B Marketing (2 units),MARK
+763,MARK 6900R - Customer Acquisition & Retention (2 units),MARK
+764,MARK 6900S - Data Science and Business Insights (2 units),MARK
+766,MATH 1003 - Calculus and Linear Algebra (3 units),MATH
+767,MATH 1012 - Calculus IA (4 units),MATH
+768,MATH 1013 - Calculus IB (3 units),MATH
+769,MATH 1014 - Calculus II (3 units),MATH
+770,MATH 1023 - Honors Calculus I (3 units),MATH
+771,MATH 2011 - Introduction to Multivariable Calculus (3 units),MATH
+772,MATH 2023 - Multivariable Calculus (4 units),MATH
+773,MATH 2111 - Matrix Algebra and Applications (3 units),MATH
+774,MATH 2121 - Linear Algebra (4 units),MATH
+775,MATH 2131 - Honors in Linear and Abstract Algebra I (4 units),MATH
+776,MATH 2350 - Applied Linear Algebra and Differential Equations (3 units),MATH
+777,MATH 2351 - Introduction to Differential Equations (3 units),MATH
+778,MATH 2411 - Applied Statistics (4 units),MATH
+779,MATH 2421 - Probability (4 units),MATH
+780,MATH 2511 - Fundamentals of Actuarial Mathematics (3 units),MATH
+781,MATH 3033 - Real Analysis (4 units),MATH
+782,MATH 3043 - Honors Real Analysis (4 units),MATH
+783,MATH 3121 - Abstract Algebra (3 units),MATH
+784,MATH 3312 - Numerical Analysis (3 units),MATH
+785,MATH 3423 - Statistical Inference (3 units),MATH
+786,MATH 4052 - Partial Differential Equations (3 units),MATH
+787,MATH 4141 - Number Theory and Applications (3 units),MATH
+788,MATH 4223 - Differential Geometry (3 units),MATH
+789,MATH 4326 - Introduction to Fluid Dynamics (3 units),MATH
+790,MATH 4423 - Nonparametric Statistics (3 units),MATH
+791,MATH 4424 - Multivariate Analysis (3 units),MATH
+792,MATH 4427 - Loss Models and Credibility Theory (3 units),MATH
+793,MATH 4511 - Quantitative Methods for Fixed Income Derivatives (3 units),MATH
+794,MATH 4513 - Life Contingencies Models and Insurance Risk (3 units),MATH
+795,MATH 4982Y - Independent Study: Further Topics in Game Theory (3 units),MATH
+796,MATH 4991 - Capstone Project in Pure Mathematics (3 units),MATH
+797,MATH 4992 - Capstone Project in Applied Mathematics (3 units),MATH
+798,MATH 4993 - Capstone Project in Statistics (3 units),MATH
+799,MATH 4994 - Capstone Project in Mathematics and Economics (3 units),MATH
+800,MATH 5030 - Complex Function Theory (3 units),MATH
+801,MATH 5111 - Advanced Algebra I (3 units),MATH
+802,MATH 5145 - Introduction to Lie Groups (3 units),MATH
+803,MATH 5230 - Differential Topology (3 units),MATH
+804,MATH 5251 - Algebraic Geometry I (3 units),MATH
+805,MATH 5311 - Advanced Numerical Methods I (3 units),MATH
+806,MATH 5350 - Computational Fluid Dynamics for Inviscid Flows (3 units),MATH
+807,MATH 5351 - Mathematical Methods in Science and Engineering I (3 units),MATH
+808,MATH 5380 - Combinatorics (3 units),MATH
+809,MATH 5411 - Advanced Probability Theory I (3 units),MATH
+810,MATH 5431 - Advanced Mathematical Statistics I (3 units),MATH
+811,MATH 5460 - Time Series Analysis (3 units),MATH
+812,MATH 6050H - Topics in Analysis (3 units),MATH
+813,MATH 6380L - Mathematical Foundations of Imaging (3 units),MATH
+814,MATH 6510B - Mathematical Methods for Interest Rate and Credit Risk Modeling (3 units),MATH
+815,MATH 6770 - Professional Development in Science (Mathematics) (2 units),MATH
+816,MATH 6900A - Mathematics Seminar (1 unit),MATH
+817,MATH 6900B - Mathematics Seminar (1 unit),MATH
+818,MATH 6900C - Mathematics Seminar (1 unit),MATH
+819,MATH 6900D - Mathematics Seminar (1 unit),MATH
+820,MATH 6911A - Reading Course: Finite Element Methods (3 units),MATH
+821,MATH 6911B - Reading Course: Advanced Iterative Methods for Algebraic Solvers (3 units),MATH
+824,MECH 1902 - Energy Systems in a Sustainable World (3 units),MECH
+825,MECH 1906 - Mechanical Engineering for Modern Life (3 units),MECH
+826,MECH 1907 - Introduction to Aerospace Engineering (3 units),MECH
+827,MECH 1990 - Industrial Training (0 units),MECH
+828,MECH 2020 - Statics and Dynamics (3 units),MECH
+829,MECH 2310 - Thermodynamics (3 units),MECH
+830,MECH 3030 - Mechanisms of Machinery (3 units),MECH
+831,MECH 3300 - Energy Conversion (3 units),MECH
+832,MECH 3310 - Heat Transfer (3 units),MECH
+833,MECH 3420 - Engineering Materials II (3 units),MECH
+834,MECH 3510 - CAD/CAM (3 units),MECH
+835,MECH 3520 - Design and Manufacturing II (3 units),MECH
+836,MECH 3610 - Control Principles (3 units),MECH
+837,MECH 3640 - Aerodynamics (3 units),MECH
+838,MECH 3650 - Aircraft Structure (3 units),MECH
+839,MECH 4000G - Introduction to Composite Materials (3 units),MECH
+840,MECH 4000H - Advanced Aircraft Design (3 units),MECH
+841,MECH 4000I - Introduction to Nanosatellite Engineering (Experiential Course) (3 units),MECH
+842,MECH 4360 - Introduction to Intelligent Building Systems (3 units),MECH
+843,MECH 4860 - Aeroelasticity (3 units),MECH
+844,MECH 4900 - Final Year Design Project (6 units),MECH
+845,MECH 4950 - Co-op Program (3 units),MECH
+846,MECH 4980 - Final Year Aerospace Design Project (6 units),MECH
+847,MECH 5010 - Foundation of Solid Mechanics (3 units),MECH
+848,MECH 5210 - Fluid Dynamics (3 units),MECH
+849,MECH 5540 - Precision Engineering (3 units),MECH
+850,MECH 5930 - Finite Element Methods (3 units),MECH
+851,MECH 5961 - Acoustics and Aeroacoustics (3 units),MECH
+852,MECH 6090M - Seminar in Mechanical Engineering (0 units),MECH
+853,MECH 6770 - Professional Development in Mechanical Engineering (1 unit),MECH
+854,MECH 6910N - Aviation Economics (3 units),MECH
+855,MECH 6910O - Fundamentals of Electrochemical Energy Conversion (3 units),MECH
+856,MECH 6910P - Structural Dynamics (3 units),MECH
+857,MECH 6950C - Independent Studies (1 unit),MECH
+860,MESF 5010 - Foundation of Solid Mechanics (3 units),MESF
+861,MESF 5210 - Fluid Dynamics (3 units),MESF
+862,MESF 5370 - Composites and Nanocomposites (3 units),MESF
+863,MESF 5430 - Thermodynamics and Kinetics of Materials (3 units),MESF
+864,MESF 5560 - Precision Manufacturing Technologies (3 units),MESF
+865,MESF 6910D - Advanced Numerical Methods in Engineering (3 units),MESF
+866,MESF 6950A - Independent Project (3 units),MESF
+867,MESF 6950C - Independent Project (6 units),MESF
+868,"MGCS 5001 - Understanding China, 1700-2000: A Data-Analytic Approach (3 units)",MGCS
+869,MGCS 5010 - Quantitative Methods in Social Science (3 units),MGCS
+870,MGCS 5033 - Accommodating the Provocative Others: Translation and Cultural Encounters between China and the West (3 units),MGCS
+871,MGMT 1110 - Introduction to Management (3 units),MGMT
+872,MGMT 2010 - Business Ethics and the Individual (2 units),MGMT
+873,MGMT 2110 - Organizational Behavior (3 units),MGMT
+874,MGMT 2130 - Business Ethics and Social Responsibility (2 units),MGMT
+875,MGMT 3110 - Human Resources Management (4 units),MGMT
+876,MGMT 3130 - Judgement and Decision Making in Organizations (4 units),MGMT
+877,MGMT 3140 - Negotiation (4 units),MGMT
+878,MGMT 4210 - Corporate Strategy (3 units),MGMT
+879,MGMT 4220 - Entrepreneurship and Small Business Studies (4 units),MGMT
+880,MGMT 4260 - Simulating Executive Decision-making (Strategy and Crisis) in a Real-life Organization (3 units),MGMT
+881,MGMT 5110 - Managerial Communication (2 units),MGMT
+882,MGMT 5230 - Management of Organizations (2 units),MGMT
+883,MGMT 5550 - Effective Negotiations (2 units),MGMT
+884,MGMT 5570 - Applied Merger and Acquisition (2 units),MGMT
+885,MGMT 5580 - China's External Relations and Their Economic Impact (2 units),MGMT
+886,MGMT 5590 - Responsible Leadership and Ethics (2 units),MGMT
+887,MGMT 5670 - Managing Change (2 units),MGMT
+888,MGMT 5680 - Politics and Socioeconomic Environment of China (2 units),MGMT
+889,"MGMT 5690 - Southeast Asia's Economies in Transition: Bubble, Crisis, and Renewal (1 unit)",MGMT
+890,MGMT 5730 - Social Entrepreneurship and Venture Philanthropy (3 units),MGMT
+891,MGMT 5760 - Management Consulting (2 units),MGMT
+892,MGMT 5770 - Building Effective Teams (1 unit),MGMT
+893,MGMT 5780 - Managing Strategic Alliances in China (1 unit),MGMT
+894,MGMT 5810 - Blue Ocean Strategy Innovation (1 unit),MGMT
+895,MGMT 6500X - People Development: Coaching for High Performance (1 unit),MGMT
+896,MGMT 6500Y - Realizing Value: Ensuring M&A success in Asia (1 unit),MGMT
+897,MGMT 6520F - Scenario Planning in Leadership and Longer Term Strategy (2 units),MGMT
+898,MGMT 6520G - Exploring Northeast Asia’ Invisible Giants – Japan and South Korea (1 unit),MGMT
+900,MGMT 7130 - Doctoral Seminar in Organization Theory and Strategy (3 units),MGMT
+902,MILE 5001 - Second Language Acquisition (3 units),MILE
+903,MILE 5002 - Language Teaching Methodology and Curriculum Design (3 units),MILE
+904,MILE 5103 - Testing and Assessment (3 units),MILE
+905,MILE 5201 - World Englishes (3 units),MILE
+906,MILE 5205 - Grammar for English Teachers (3 units),MILE
+907,MILE 5301 - Chinese Writing System (3 units),MILE
+908,MILE 5302 - Mandarin Chinese Grammar for L2 Chinese Teachers (3 units),MILE
+909,MILE 5306 - Understanding Chinese Language in Global Context (3 units),MILE
+910,MIMT 5110 - Doing Business in Asia (2 units),MIMT
+911,MIMT 5120 - Strategic Management in Asia (2 units),MIMT
+912,MIMT 5310 - Understanding Consumers: A Strategic Approach (2 units),MIMT
+913,MIMT 5350 - Project Management (2 units),MIMT
+914,MIMT 6110 - Skill Seminar I (1 unit),MIMT
+915,MSBD 5001 - Foundations of Data Analytics (3 units),MSBD
+916,MSBD 5002 - Data Mining and Knowledge Discovery (3 units),MSBD
+917,MSBD 5003 - Big Data Computing (3 units),MSBD
+918,MSBD 5005 - Data Visualization (3 units),MSBD
+919,MSBD 5006 - Quantitative Analysis of Financial Time Series (3 units),MSBD
+920,MSBD 5007 - Optimization and Matrix Computation (3 units),MSBD
+921,MSBD 5009 - Parallel Programming (3 units),MSBD
+922,MSBD 5013 - Statistical Prediction (3 units),MSBD
+923,MSBD 5014A - Independent Project (3 units),MSBD
+924,MSBD 5014B - Independent Project (3 units),MSBD
+925,MSBD 6000A - Artificial Intelligence (3 units),MSBD
+926,MSBD 6000B - Deep Learning (3 units),MSBD
+927,NANO 5100 - Chemistry of Nanomaterials (3 units),NANO
+928,NANO 5250 - Nano Beam Technology (4 units),NANO
+929,NANO 6100 - Independent Study in Nano Science and Technology (3 units),NANO
+932,PDEV 6770B - Professional Development for Research Postgraduate Students (1 unit),PDEV
+933,PDEV 6770C - Professional Development for Research Postgraduate Students (1 unit),PDEV
+934,PHYS 1001 - Physics and the Modern Society (3 units),PHYS
+935,PHYS 1002 - Introduction to Astrophysics and Astronomy (3 units),PHYS
+936,PHYS 1003 - Energy and Related Environmental Issues (3 units),PHYS
+937,PHYS 1111 - General Physics I (3 units),PHYS
+938,PHYS 1112 - General Physics I with Calculus (3 units),PHYS
+939,PHYS 1113 - Laboratory for General Physics I (1 unit),PHYS
+940,PHYS 1114 - General Physics II (3 units),PHYS
+941,PHYS 1312 - Honors General Physics I (3 units),PHYS
+942,PHYS 2022 - Modern Physics (3 units),PHYS
+943,PHYS 2023 - Modern Physics Laboratory (1 unit),PHYS
+944,PHYS 2080 - Physics Seminar (1 unit),PHYS
+945,PHYS 2090 - Directed Studies in Physics I (1 unit),PHYS
+946,PHYS 3031 - Mathematical Methods in Physics II (3 units),PHYS
+947,PHYS 3033 - Electricity and Magnetism I (3 units),PHYS
+948,PHYS 3038 - Optics (3 units),PHYS
+949,PHYS 3040 - Introduction to Materials Science (3 units),PHYS
+950,PHYS 3053 - Honors Electricity and Magnetism I (4 units),PHYS
+951,PHYS 3071 - Introduction to Stellar Astrophysics (3 units),PHYS
+952,PHYS 3090 - Directed Studies in Physics II (1 unit),PHYS
+953,PHYS 3090A - Directed Studies in Physics II (1 unit),PHYS
+954,PHYS 3152 - Methods of Experimental Physics I (3 units),PHYS
+955,PHYS 3153 - Methods of Experimental Physics II (3 units),PHYS
+956,PHYS 4050 - Thermodynamics and Statistical Physics (3 units),PHYS
+957,PHYS 4051 - Quantum Mechanics II (3 units),PHYS
+958,PHYS 4055 - Particle Physics and the Universe (3 units),PHYS
+959,PHYS 4058 - Information Physics (3 units),PHYS
+960,PHYS 4080 - Physics Seminar and Tutorial II (1 unit),PHYS
+961,PHYS 4090 - Directed Studies in Physics III (1 unit),PHYS
+962,PHYS 4090A - Directed Studies in Physics III (1 unit),PHYS
+963,PHYS 4151A - Experimental Physics: An Experiential Approach (2 units),PHYS
+964,PHYS 4191 - Capstone Project (4 units),PHYS
+965,PHYS 4291 - Capstone Research (6 units),PHYS
+966,"PHYS 5210 - Electromagnetic Waves, Maxwell Equations, and Relativity (4 units)",PHYS
+967,PHYS 5820 - Diffraction and Imaging Techniques in Materials Science (4 units),PHYS
+968,PHYS 6000 - Physics Seminar (1 unit),PHYS
+969,PHYS 6100B - Individual Study in Physics (1 unit),PHYS
+970,PHYS 6770 - Professional Development in Science (Physics) (2 units),PHYS
+971,PHYS 6810F - Modern AMO (Atomic Molecular Optical) Physics with Atoms and Photons (3 units),PHYS
+972,PHYS 6810G - Computational Energy Materials and Simulations (3 units),PHYS
+975,PPOL 5110 - Foundation in Public Policy (3 units),PPOL
+976,PPOL 5120 - Research Methods in Public Policy (3 units),PPOL
+977,PPOL 5130 - Microeconomics and Public Policy (3 units),PPOL
+978,RMBI 1020 - Business Intelligence in Contemporary Society (3 units),RMBI
+979,RMBI 2001 - Academic and Professional Development in Risk Management and Business Intelligence (0 units),RMBI
+980,RMBI 3110 - Introduction to Risk Management and Business Intelligence (3 units),RMBI
+981,RMBI 4110 - Financial Service Operations Management (3 units),RMBI
+982,RMBI 4220 - Life Contingencies Models and Insurance Risk (3 units),RMBI
+983,RMBI 4980 - Risk Management and Business Intelligence Capstone Project I (4 units),RMBI
+984,RMBI 4990 - Risk Management and Business Intelligence Capstone Project II (4 units),RMBI
+985,SBMT 1111 - Business Student Induction (0 units),SBMT
+986,SBMT 2100F - Community Services Project: Developing Leadership Through Service Learning (2 units),SBMT
+987,SBMT 3200H - Corporate Project (2 units),SBMT
+988,SBMT 5010 - Accounting for Managers (3 units),SBMT
+989,SBMT 6300D - Global Study Tour - London (2 units),SBMT
+990,SBMT 6770 - Professional Development in Academia for Business (1 unit),SBMT
+991,SCIE 1000 - Science School Induction (0 units),SCIE
+992,SCIE 1090C - Community Services Project: Developing Leadership Through Service Learning (2 units),SCIE
+993,SCIE 1100 - Career Building for Science Students (1 unit),SCIE
+994,SCIE 1110 - Great Ideas in Science (3 units),SCIE
+995,SCIE 1130 - Scientific Understanding of Our World (1 unit),SCIE
+996,SCIE 3100 - Career Building in Science Education (2 units),SCIE
+997,SCIE 3500 - IRE Research Project I (3 units),SCIE
+998,SCIE 3900 - International Research Experience (3 units),SCIE
+999,SCIE 4500 - IRE Research Project II (3 units),SCIE
+1000,SHSS 1010 - First-year Seminar (1 unit),SHSS
+1001,SHSS 1030 - Career Building for Global China Studies Students (1 unit),SHSS
+1002,SHSS 4991 - Capstone Project (3 units),SHSS
+1003,SHSS 4992 - Honors Thesis (6 units),SHSS
+1004,SHSS 6770 - Professional Development in Humanities and Social Science (1 unit),SHSS
+1005,"SOSC 1150 - Science, Technology and Work (3 units)",SOSC
+1006,SOSC 1190 - China and the World: China's Development in Historical and Comparative Perspectives (3 units),SOSC
+1007,SOSC 1200 - Quantitative Social Analysis (3 units),SOSC
+1008,SOSC 1210 - First-Year Seminar for Quantitative Social Analysis (1 unit),SOSC
+1009,SOSC 1270 - International Law (3 units),SOSC
+1010,SOSC 1350 - Contemporary China: Continuity and Change (3 units),SOSC
+1011,SOSC 1420 - Poverty (3 units),SOSC
+1012,SOSC 1850 - Understanding Society (3 units),SOSC
+1013,SOSC 1960 - Discovering Mind and Behavior (3 units),SOSC
+1014,SOSC 1980 - Psychology and Everyday Life (3 units),SOSC
+1015,SOSC 2120 - The Party-state System in China: Origins and Developments (3 units),SOSC
+1016,SOSC 2130 - Education and Society (3 units),SOSC
+1017,"SOSC 2170 - Environment, Sustainability and Business: A Design Approach (3 units)",SOSC
+1018,SOSC 2290 - Understanding Globalization (3 units),SOSC
+1019,SOSC 2310 - Introductory Environmental and Health Economics (3 units),SOSC
+1020,SOSC 2740 - Gender and Society (3 units),SOSC
+1021,SOSC 3110 - Innovation and Technology in Hong Kong (3 units),SOSC
+1022,SOSC 3240 - Application of Geographical Information Systems (3 units),SOSC
+1023,SOSC 3520 - Understanding Comparative Politics (3 units),SOSC
+1024,SOSC 3700A - Quantitative Social Analysis Laboratory (1 unit),SOSC
+1025,SOSC 4000F - Jerusalem through the Ages: Historical Geography of the Holy City (3 units),SOSC
+1026,SOSC 4260 - China's Economic Transformation (3 units),SOSC
+1027,SOSC 4290 - China's Sustainable Development (3 units),SOSC
+1028,SOSC 5090 - Statistics in Social Science (3 units),SOSC
+1029,SOSC 5110 - Social Science Research Design and Methods (3 units),SOSC
+1030,SOSC 5520 - International Aspects of China's Reforms (3 units),SOSC
+1031,SOSC 5660 - Migration and Globalization (3 units),SOSC
+1032,SOSC 5720 - Economic Development in China (3 units),SOSC
+1033,SOSC 5750 - International Political Economy (3 units),SOSC
+1034,SOSC 5770 - Policy Analysis and Design for Sustainable Development (3 units),SOSC
+1035,SOSC 5780 - Foundation in Public Policy (3 units),SOSC
+1036,SOSC 5790 - Research Methods in Public Policy (3 units),SOSC
+1037,SOSC 6100A - Independent Study (3 units),SOSC
+1038,SOSC 6100B - Independent Study (3 units),SOSC
+1041,SSMA 5020 - Quantitative Methods in Social Science (3 units),SSMA
+1042,SSMA 5050 - Economic Transformations in Post-Mao China (3 units),SSMA
+1043,SSMA 5090 - Understanding Personality (3 units),SSMA
+1044,SSMA 5210 - Economic Development (3 units),SSMA
+1045,SUST 1000 - Introduction to Sustainability (3 units),SUST
+1046,TEMG 1010 - Technology and Management Professional Activities (0 units),TEMG
+1047,TEMG 4950Y - Special Project: Artificial Intelligence for Barons Executive Recruiting (5 units),TEMG
+1048,UROP 1100S - Undergraduate Research Opportunities Series 1 (1 unit),UROP
+1049,UROP 2100S - Undergraduate Research Opportunities Series 2 (1 unit),UROP
+1050,UROP 3100S - Undergraduate Research Opportunities Series 3 (1 unit),UROP
+1051,UROP 4100S - Undergraduate Research Opportunities Series 4 (1 unit),UROP

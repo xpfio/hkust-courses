@@ -1,0 +1,68 @@
+
+<style type="text/css">
+html, body{
+	padding: 0;
+	margin: 0;
+}
+</style>
+
+<svg width=1000 height=1000 style="background: black;"></svg>
+
+<script type="text/javascript" src="tsne.js"></script>
+<script type="text/javascript" src="d3.v4.min.js"></script>
+
+
+
+
+<script type="text/javascript">
+	d3.json('data.json',(error,raw)=>{
+		console.log(raw);
+		data = raw.x.map((d,p)=>{return{x:d,y:raw.y[p]}})
+		console.log(data);
+
+		var x = d3.scaleLinear().range([100,900]).domain(d3.extent(data,d=>d.x));
+		var y = d3.scaleLinear().range([100,900]).domain(d3.extent(data,d=>d.y));
+
+		colorScheme = d3.scaleOrdinal(d3.schemeCategory20);
+		d3.csv('labels.csv',(error,dataset)=>{
+
+
+			textA = d3.select('svg').selectAll('text')
+				.data(data)
+				.enter()
+				.append('text')
+				.style('fill','white')
+				.style('opacity',1)
+				.attr('x',d=>x(d.x)+5)
+				.attr('y',d=>y(d.y)+Math.random()*10-5)
+				.text((d,p)=>dataset[p]['name'].split(' (')[0].split('- ')[1])
+
+
+			circles = d3.select('svg').selectAll('circle')
+				.data(data)
+				.enter()
+				.append('circle')
+				.attr('r',(d,p)=>d.r=3)
+				.attr('r',(d,p)=>d.r>1?d.r:1)
+				.style('fill',(d,p)=>colorScheme(dataset[p].dept))
+
+			circles
+				.attr('cx',d=>x(d.x))
+				.attr('cy',d=>y(d.y))
+			circles.append('title')
+				.text((d,p)=>dataset[p].name)
+
+
+		})
+
+	})
+</script>
+
+<style type="text/css">
+	text {
+		font-size: 2px;
+		font-family: sans-serif;
+		text-anchor: start;
+		opacity: 0.8;
+	}
+</style>
