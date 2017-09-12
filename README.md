@@ -9,6 +9,11 @@ This is a very simple example to aggregate all the courses to perform text minin
 
 ![alt text](render.png "T-SNE Projection")
 
+# Graph View of HKUST COMP courses and Prerequisites
+
+
+![alt text](graph.png "Graph")
+
 
 ## ACCT 1010 - Accounting, Business and Society (3 units)
 
